@@ -1,0 +1,8 @@
+name,age,marks,email
+Saanvi,20,92,saanvi@example.com
+Rahul,21,85,rahul@example.com
+Priya,,78,priya@example.com
+Amit,19,,amit@example.com
+Saanvi,20,92,saanvi@example.com
+,22,67,unknown@example.com
+Kiran,abc,105,kiran@example.com

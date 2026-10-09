@@ -1,0 +1,9 @@
+
+{
+    "input_file": "data/raw_students.csv",
+    "output_file": "data/processed_students.csv",
+    "log_file": "logs/pipeline.log",
+    "remove_duplicates": true,
+    "missing_marks_default": 0,
+    "max_marks": 100
+}
